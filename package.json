@@ -1,0 +1,11 @@
+{
+  "name": "finance-tracker",
+  "version": "1.0.0",
+  "description": "It is a project which help to predict the future expenses of the user using advanced machine leaning algorithms and is deployed using latest web3 tech.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alveera fatima - Devashish tyagi",
+  "license": "ISC"
+}
